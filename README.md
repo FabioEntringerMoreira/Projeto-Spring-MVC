@@ -14,6 +14,8 @@ Projeto com fins educacionais. Um sistema de cadastro de títulos em geral onde 
 ## Screenshots
 ![Screenshot](https://github.com/FabioEntringerMoreira/Projeto-Spring-MVC/blob/master/imagem/3.png)
 ![Screenshot](https://github.com/FabioEntringerMoreira/Projeto-Spring-MVC/blob/master/imagem/Print1.png)
+![Screenshot](https://github.com/FabioEntringerMoreira/Projeto-Spring-MVC/blob/master/imagem/2.png)
+![Screenshot](https://github.com/FabioEntringerMoreira/Projeto-Spring-MVC/blob/master/imagem/4.png)
 ## Technologies
 * Spring MVC
 * Spring Boot  
