@@ -12,7 +12,10 @@
 Projeto com fins educacionais. Um sistema de cadastro de títulos em geral onde o usuário entra com os dados de decrição, data de vencimento e status do título em questão e armazena os dados em um banco de dados. O sistema é responsivo e inteiramente funcional.
 
 ## Screenshots
-![Example screenshot]
+![Example screenshot] (https://github.com/FabioEntringerMoreira/Projeto-Spring-MVC/blob/master/imagem/3.png)
+(https://github.com/FabioEntringerMoreira/Projeto-Spring-MVC/blob/master/imagem/Print1.png)
+(https://github.com/FabioEntringerMoreira/Projeto-Spring-MVC/blob/master/imagem/2.png)
+(https://github.com/FabioEntringerMoreira/Projeto-Spring-MVC/blob/master/imagem/4.png)
 
 ## Technologies
 * Spring MVC
