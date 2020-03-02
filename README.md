@@ -28,9 +28,9 @@ Projeto com fins educacionais. Um sistema de cadastro de títulos em geral onde 
 ## Sugestão de configuração
  Criar o banco MySQL e editar o arquivo application.properties para apontar para seu banco:
 ```
-  spring.datasource.url=jdbc:mysql://localhost:3306/db_saraiva
-  spring.datasource.username=root
-  spring.datasource.password=toor
+  spring.datasource.url=jdbc:mysql://localhost:3306/titulo
+  spring.datasource.username=
+  spring.datasource.password=
 ```
 Rodar o comando: 
 ```
